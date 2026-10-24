@@ -339,6 +339,8 @@ This project is distributed under the **Apache License 2.0**. See the [`LICENSE`
 ## Credits
 
 - **Hardware Designer:** Mohammadreza Zourmand <mzselec@gmail.com> — custom 2-layer PCB, mains-isolated
+Linkedin: https://www.linkedin.com/in/mzourmand
 - **Firmware Author:** Mohammadali Abbasi <m.elec76a@gmail.com> — designed and implemented the complete firmware (FreeRTOS architecture, all application tasks, wireless protocol, UI state machine, actuator control)
+Linkedin: https://www.linkedin.com/in/mohammadali-abbasi
 
 The main-board and sensor-board firmware are maintained in separate repositories linked above.
